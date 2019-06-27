@@ -30,6 +30,7 @@
 
 # Python cache files
 *.pyc
+*.egg-info
 
 # Compiled Static libraries
 *.lai
